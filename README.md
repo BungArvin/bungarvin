@@ -14,11 +14,11 @@
 </p>
 
 
-<h3 align="center">My Language</h3>
+<h3 align="center">Language and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,cpp,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,nodejs,mysql,unity,blender" />
   </a>
 </p>
 
