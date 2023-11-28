@@ -14,13 +14,8 @@
 </p>
 
 
-<h3 align="center">Language and Tools</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,nodejs,mysql,unity,blender" />
-  </a>
-</p>
+<h3>Language and Tools</h3>
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,nodejs,mysql,unity,blender&perline=3)](https://skillicons.dev)
 
 
 
