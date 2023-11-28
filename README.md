@@ -14,9 +14,11 @@
 </p>
 
 
-<h3>Language and Tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,nodejs,mysql,unity,blenderr&perline=3)](https://skillicons.dev)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,nodejs,mysql,unity,blenderr&perline=3" />
+  </a>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungarvin&show_icons=true&locale=en&layout=compact" alt="bungarvin" /></p>
