@@ -23,12 +23,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungarvin&show_icons=true&locale=en&layout=compact" alt="bungarvin" /></p><br>
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungarvin&show_icons=true&locale=en&layout=compact" alt="bungarvin" /></p>
+  
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bungarvin&show_icons=true&locale=en" alt="bungarvin" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungarvin&" alt="bungarvin" /></p>
+</div>
 
-
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bungarvin&show_icons=true&locale=en" alt="bungarvin" /></p><br>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bungarvin&" alt="bungarvin" /></p>
