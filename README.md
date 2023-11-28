@@ -17,15 +17,17 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,nodejs,mysql,unity,blender&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,nodejs,mysql,unity,blender&perline=" />
   </a>
 </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungarvin&show_icons=true&locale=en&layout=compact" alt="bungarvin" /></p>
 
+<br><br><br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bungarvin&show_icons=true&locale=en" alt="bungarvin" /></p>
 
-
+<br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungarvin&" alt="bungarvin" /></p>
