@@ -15,9 +15,9 @@
 
 
 <p align="center">
-  <h3>My Language</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,c," />
+  <a href="https://skillicons.dev
+      <h3>My Language</h3>
+    <img src="https://skillicons.dev/icons?i=cs,js,cpp,nodejs	" />
   </a>
 </p>
 
