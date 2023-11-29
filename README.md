@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Bung Arvin</h1>
 ![Header](./github-header-image.png)
+<h1 align="center">Hi 👋, I'm Bung Arvin</h1>
 <h3 align="left">Hai, my name is Arvin also known as BungArvin <br>🚀 Passionate on Indie Game Development with a 3-year journey crafting immersive experiences using the Unity Game Engine. 🌐 As a tech enthusiast, I've expanded my horizons to explore the exciting worlds of backend development and cybersecurity. With an insatiable curiosity, I'm on a continuous learning path, driven to understand the intricacies of data flow, system architecture, and the art of securing digital realms.</h3>
 
 - 🌱 I’m currently learning **Cybersecurity**
